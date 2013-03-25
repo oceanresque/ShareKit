@@ -1,3 +1,8 @@
+Dropbox Sharer 
+============
+     
+Dropbox sharer added.     
+     
 ShareKit 2
 ============
 
