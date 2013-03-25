@@ -211,6 +211,7 @@
 "Draft" = "Draft";
 "Add to queue" = "Add to queue";
 "Publish" = "Publish";
+
 /*  SHKDropbox  */
 /*
  *  user can rename file with new name while file is uploading to Dropbox
@@ -240,3 +241,28 @@
  *  Show tips for user how to rename file or enter another remote directory while upload a file
  */
 "Tips: you could enter /folder_name/file_name to save the file in other folder or/with new name" = "Tips: you could enter /folder_name/file_name to save the file in other folder or/with new name";
+
+/* Sharers' titles */
+"SMS" = "SMS";
+"Delicious" = "Delicious";
+"Diigo" = "Diigo";
+"Evernote" = "Evernote";
+"Facebook" = "Facebook";
+"Flickr" = "Flickr";
+"Foursquare" = "Foursquare";
+"Google+" = "Google+";
+"Google Reader" = "Google Reader";
+"Hatena" = "Hatena";
+"Instapaper" = "Instapaper";
+"Kippt" = "Kippt";
+"LinkedIn" = "LinkedIn";
+"Pinboard" = "Pinboard";
+"Plurk" = "Plurk";
+"Pocket" = "Pocket";
+"Readability" = "Readability";
+"Sina Weibo" = "Sina Weibo";
+"Tumblr" = "Tumblr";
+"Twitter" = "Twitter";
+"Vkontakte" = "Vkontakte";
+"Instagram" = "Instagram";
+"Dropbox" = "Dropbox"
